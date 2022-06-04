@@ -1,10 +1,10 @@
-# workshop-2021-learning-journey
+# Open Talks Security Demo
 
-This project is a fork (and modified) of the popular [OWASP Juice Shop](https://github.com/bkimminich/juice-shop) by [@bkimminich](https://github.com/bkimminich).
+Este proyecto es una bifurcación (y modificada) de la popular [OWASP Juice Shop](https://github.com/bkimminich/juice-shop) por [@bkimminich](https://github.com/bkimminich).
 
-This code base is for showing how to setup and use GitHub Advance Security on a repositories for the Learning Journey run GitHub event.
+Esta base de código es para mostrar cómo configurar y usar GitHub Advance Security en un repositorio para el evento de https://www.meetup.com/es-ES/opentalks-contribute-to-the-future/.
 
 
-## Original README
+## README original
 
-Please navigate to the [OWASP Juice Shop](https://github.com/bkimminich/juice-shop) repository to see the public documentation.
+Vaya al repositorio [OWASP Juice Shop](https://github.com/bkimminich/juice-shop) para ver la documentación pública.
