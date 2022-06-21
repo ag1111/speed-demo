@@ -1,10 +1,9 @@
 # Open Talks Security Demo
 
-Este proyecto es una bifurcación (y modificada) de la popular [OWASP Juice Shop](https://github.com/bkimminich/juice-shop) por [@bkimminich](https://github.com/bkimminich).
+This project is a fork (and modified) of the popular [OWASP Juice Shop](https://github.com/bkimminich/juice-shop) by [@bkimminich](https://github.com/bkimminich).
 
-Esta base de código es para mostrar cómo configurar y usar GitHub Advance Security en un repositorio para el evento de https://www.meetup.com/es-ES/opentalks-contribute-to-the-future/.
+This code base is to show how to configure and use GitHub Advance Security in a repository.
 
+## Original README
 
-## README original
-
-Vaya al repositorio [OWASP Juice Shop](https://github.com/bkimminich/juice-shop) para ver la documentación pública.
+Go to the [OWASP Juice Shop](https://github.com/bkimminich/juice-shop) repository to view the public documentation.
